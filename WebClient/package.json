@@ -10,7 +10,7 @@
     "@testing-library/user-event": "^7.1.2",
     "install": "^0.13.0",
     "jwt-decode": "^2.2.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "mui-datatables": "^2.14.0",
     "nivo": "^0.31.0",
     "prop-types": "^15.7.2",
